@@ -16,6 +16,11 @@ The goal of this project is to leverage Python and its powerful data analysis li
 
 -- Visualize insights effectively.
 
+
+![image](https://github.com/user-attachments/assets/66e3243a-4cce-4e0c-a721-7a5a1058ac3c)
+
+
+
 ## Project Objectives
 
 ### Data Collection: 
@@ -48,3 +53,51 @@ Provide key takeaways and actionable insights based on the analysis.
 -- Identification of patterns across time, regions, and demographics.
 
 -- Clean and modular Python code for reproducibility.
+
+## Data Visualizations 
+
+![image](https://github.com/user-attachments/assets/5d08837f-6117-4594-8eff-add7a304d032)
+
+
+![image](https://github.com/user-attachments/assets/0724c420-16cb-4009-8d22-f47350e0fb75)
+
+
+![image](https://github.com/user-attachments/assets/26bc1175-6291-4a7f-8d02-6823e5df774b)
+
+
+![image](https://github.com/user-attachments/assets/da280e3d-5fb0-4e14-9cf7-d858a4635776)
+
+
+![image](https://github.com/user-attachments/assets/59182721-1230-4b17-ae73-873333ec9273)
+
+
+![image](https://github.com/user-attachments/assets/efc3e2b1-ad27-47cc-9f1b-36fdd7851ca3)
+
+
+![image](https://github.com/user-attachments/assets/dfd593c8-c70d-4044-80b7-ae001962feeb)
+
+
+![image](https://github.com/user-attachments/assets/1ff3ecfd-52e2-4f7c-ae03-99e7563810ff)
+
+
+![image](https://github.com/user-attachments/assets/ceafea59-4b5d-4469-923a-b9160bd30a9e)
+
+
+![image](https://github.com/user-attachments/assets/b0c9474b-74c7-44a7-a502-95c784c30d3b)
+
+
+![image](https://github.com/user-attachments/assets/12211a37-d029-42c9-8bba-263a67dc6be2)
+
+
+![image](https://github.com/user-attachments/assets/812e3a03-dcf1-4e89-8240-52314f7bfb23)
+
+
+
+
+
+
+
+
+
+
+
