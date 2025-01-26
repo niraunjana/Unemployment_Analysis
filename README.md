@@ -11,7 +11,9 @@ This project focuses on analyzing the unemployment rate, with particular emphasi
 The goal of this project is to leverage Python and its powerful data analysis libraries to:
 
 -- Analyze unemployment data.
+
 -- Identify trends and patterns.
+
 -- Visualize insights effectively.
 
 ## Project Objectives
