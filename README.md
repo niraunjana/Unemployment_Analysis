@@ -20,21 +20,31 @@ The goal of this project is to leverage Python and its powerful data analysis li
 
 ### Data Collection: 
 Gather unemployment data from reliable sources, such as government reports or publicly available datasets (e.g., Kaggle, World Bank, or U.S. Bureau of Labor Statistics).
+
 ### Data Cleaning: 
 Preprocess the data to handle missing values, inconsistencies, and formatting issues.
+
 ### Exploratory Data Analysis (EDA): 
 Perform a thorough analysis to understand the data distribution, trends, and correlations.
+
 ### Data Visualization: 
 -- Create visualizations to highlight trends in the unemployment rate, such as:
+
 -- Line plots for changes in unemployment rates over time.
+
 -- Bar charts for comparisons across demographics or regions.
+
 -- Heatmaps for regional unemployment variations.
+
 ### Insights Generation: 
 Provide key takeaways and actionable insights based on the analysis.
 
 ## Key Features
 
 -- Analysis of unemployment trends during COVID-19.
+
 -- Insightful visualizations to support data storytelling.
+
 -- Identification of patterns across time, regions, and demographics.
+
 -- Clean and modular Python code for reproducibility.
